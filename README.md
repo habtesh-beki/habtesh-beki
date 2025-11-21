@@ -1,11 +1,39 @@
-<h1 align="center">I'm Habtemariam</h1>
-<h3 align="center">Full-Stack Development • Automation & LLM Engineer</h3>
+# 👋 Hi, I'm Habtemariam Bereket
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/habtemariam-bereket-a13480328?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3b0wzwm%2frzsfgmk0l2q6bwpw%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/habtemariam-bereket-a13480328?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3b0wzwm%2frzsfgmk0l2q6bwpw%3d%3d" height="30" width="40" /></a>
-</p>
+Full-stack developer passionate about automation, AI, and building smart systems.  
+I work with modern JavaScript/TypeScript stacks, LLMs, and automation tools to create scalable real-world solutions.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+---
 
+## 🚀 What I Do
+- Full-stack development (Node.js, Express, React, Next.js)
+- Building AI-powered automation systems (n8n, Make, webhooks, API integrations)
+- LLM development & fine-tuning (GPT models, tokenization, training basics)
+- Machine learning experiments & model implementation
+- Backend-focused engineering with clean architecture & modern tooling
+
+---
+
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/habtemariam-bereket-a13480328)
+
+---
+
+## 💻 Tech Stack (Simplified)
+**Languages:** JavaScript, TypeScript  
+**Frontend:** React, Next.js, Tailwind, shadcn  
+**Backend:** Node.js, Express, REST APIs, JWT  
+**Databases:** MongoDB, PostgreSQL, SQLite  
+**DevOps / Tools:** Docker, Git, Vercel, Netlify  
+**AI & Automation:** n8n, Make.com, LLMs (GPT-2/3-style models), Python (ML)  
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=habtesh-beki&theme=dark&hide_border=false&count_private=false)  
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=habtesh-beki&theme=dark&hide_border=false)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habtesh-beki&theme=dark&hide_border=false&layout=compact)
+
+---
+
+![Visitors](https://visitcount.itsvg.in/api?id=habtesh-beki&icon=0&color=0)
